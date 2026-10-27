@@ -4,7 +4,8 @@
   "compatibilityLevel": "JAVA_21",
   "client": [
     "MixinInvisibilityAlpha",
-    "MixinInvisibilityEntity"
+    "MixinInvisibilityEntity",
+    "MixinInvisibleFirstPersonHand"
   ],
   "injectors": {
     "defaultRequire": 1
